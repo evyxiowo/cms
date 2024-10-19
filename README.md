@@ -3,9 +3,4 @@
 
 - npm install
 - npm run dev
-
-space id = ywmj9uo5ju0t
-
-dil token = Pi0fNozPSs3HQmdVX34mflGgCef8K6ct3ZlZ_qFPDGU
-
-prev Vh8dqyvMMxARqjjE275H_zEeZcKP1JMsb2a5qpVLBOU
+Not working for now ahaaha no deployment....maybe if i come back to it 
